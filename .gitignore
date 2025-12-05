@@ -1,0 +1,14 @@
+# Windows system files
+Thumbs.db
+.DS_Store
+
+# Wireshark temporary or backup files
+*.pcapng~
+*.tmp
+
+# VSCode or other editor settings
+.vscode/
+.idea/
+
+# Optional: logs or other temp files
+*.log
